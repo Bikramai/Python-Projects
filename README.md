@@ -26,3 +26,5 @@ So, if we are ready to go beyond just coding and start thinking like a problem s
 <strong>Remember, this course isn’t about quick wins</string>, it’s about building a strong foundation in problem solving that will serve you throughout our career.
 
 By the end of each project, we will not only have a working solution, but also a deep understanding of the logic and thought process behind it.
+
+# Project:1 - Dice Rolling Game
