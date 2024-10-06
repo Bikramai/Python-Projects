@@ -28,3 +28,4 @@ So, if we are ready to go beyond just coding and start thinking like a problem s
 By the end of each project, we will not only have a working solution, but also a deep understanding of the logic and thought process behind it.
 
 # Project:1 - Dice Rolling Game
+- When we execute this program, first, we get question, roll the dice. In this program we have only two options,yes, or no. If we type anything else, we get an error message saying invalid choice. We can type y, eihter lowercase or uppercase, it doesn't matter. And every time we get two new random numbers, just like how we roll a doce. If we type n, our program terminates and displays a message saying thanks for playing.
