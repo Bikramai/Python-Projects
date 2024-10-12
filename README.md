@@ -1,6 +1,6 @@
 # Python + Projects
 
-# Python Projects feor Beginners
+# Python Projects for Beginners
 
 ## Getting Started
 
