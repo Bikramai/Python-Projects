@@ -37,3 +37,9 @@ And every time we get two new random numbers, just like how we roll a doce. If w
 Now if we type an invalid number like a,  we get an error message, and the program is giving us feedback, 
 it says this is too high and too low. So the number that the computer has generated is between 5 and 10, 
 try until we guess the number and display the message Congrations! You guessed the number.
+
+# Project-2: Rock, Paper, Scissor
+<p> Problem:
+Rock, Paper, Scissor Game. How it works, First we get a question, rock, paper, or scissors.
+Here we only have three choices, R, P, or S. If we type anuthin else, we get an error message saying invalid choice. Now let me go with R, that is short for rock, so I chose rock, computer chose paper, and I lost. Now right after we get asked if we want to continue, let's try again, this time I'm going to go with scissors, so I chose scissors, computer chose paper, I won.If you want to stop type n, the game ends.
+</P>
