@@ -1,4 +1,4 @@
-import qrcode 
+import qrcode; 
 
 data = input('Enter the text or URL: ').strip()
 filename = input('Enter the filename: ').strip()
