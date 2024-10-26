@@ -15,3 +15,13 @@
 
 # Do the conversion
 # Print the result
+
+
+while True:
+    try:
+        amount = float(input('Enter the amount: '))
+        if amount <= 0:
+            raise ValueError()
+        break
+    except ValueError:
+        print('Invalid amount')
