@@ -13,6 +13,7 @@
 # Print the final score
 
 import random
+from termcolor import cprint
 
 quiz = [
     {
@@ -45,9 +46,11 @@ for index, item in enumerate(quiz, 1):
     answer = input('Your answer: ').upper().strip()
 
     if answer == item['answer']:
-        print('Correct!')
+        cprint('Correct!', 'green')
         score += 1
     else:
-        print(f'Wrong! the correct answer is {item['answer']}')
+        cprint(f'Wrong! the correct answer is {item['answer']}', 'red')
+        
+    print()
 
 print(f'Quiz over! Your final score is {score} out of {len(quiz)}')
